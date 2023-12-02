@@ -1,9 +1,7 @@
+import SignUp from "./pages/SignUp";
+// import Success from "./pages/Success";
 function App() {
-  return (
-    <>
-      <h1>Love</h1>
-    </>
-  );
+  return <SignUp />;
 }
 
 export default App;
